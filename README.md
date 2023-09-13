@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> I am an undergraduate student of POSTECH(Pohang university of science and technology).
 
 #### Links
-LinkedIn: [LinkedIn]()
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)
 
 CV: [CV]()
 
