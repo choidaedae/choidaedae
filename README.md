@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 #### Links
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)
 
-CV: [CV]()
+CV: [CV](https://drive.google.com/file/d/15rqTudEvXHBK6PTYtUqwsKlT7_SoDgWJ/view)
 
-Velog: [Velog]()
+Velog: [TBD...]()
