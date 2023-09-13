@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 #### Links
 LinkedIn: [LinkedIn]()
+
 CV: [CV]()
+
 Velog: [Velog]()
