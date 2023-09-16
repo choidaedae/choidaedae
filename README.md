@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## Contact Info
-- [E-mail](daehyeonchoi@postech.ac.kr)
+- E-mail: daehyeonchoi@postech.ac.kr
 - [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)
 
   
