@@ -35,17 +35,17 @@ Here are some ideas to get you started:
 
 
 ## Work Experience
-- **AI Research Intern,** Meissa Planet (2023.6.12 ~ 2023.9.1) (Link: [Meissa Planet](www.meissaplanet.com))
+- **AI Research Intern,** Meissa Planet (2023.6.12 ~ 2023.9.1) (Link: [Meissa Planet](https://www.meissaplanet.com))
   - Satellite Image Anaylsis using Deep Learning & Computer vision 
   - Diffusion Models, Semantic Segmentation, Change Detection, Semantic Change Detection
 
 
 ## Research Experiences
-- **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ Present) (Link: [MIV Lab @ POSTECH](miv.postech.ac.kr))
+- **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ Present) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
   - Under the supervision by Prof. Wonhwa Kim
   - Medical Image segmentation, Wavelet Diffusion Models
   
-- **UnderGraduate Student Researcher,** POSTECH Computer Vision Lab (2022.9 ~ 2023.2) (Link: [CV Lab @ POSTECH](cvlab.postech.ac.kr))
+- **UnderGraduate Student Researcher,** POSTECH Computer Vision Lab (2022.9 ~ 2023.2) (Link: [CV Lab @ POSTECH](https://cvlab.postech.ac.kr))
   - Under the supervision by Prof. Jaesik Park 
   - Generative Adversarial Networks
 
