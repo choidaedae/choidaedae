@@ -48,4 +48,27 @@ Here are some ideas to get you started:
 - **UnderGraduate Student Researcher,** POSTECH Computer Vision Lab (2022.9 ~ 2023.2) (Link: [CV Lab @ POSTECH](https://cvlab.postech.ac.kr))
   - Under the supervision by Prof. Jaesik Park 
   - Generative Adversarial Networks
+ 
+## Studies 
+- **Stanford CS231n(Deep Learning for Computer Vision),** 2022.9 ~ 2022.12
+  - Online Open Course from Stanford University 
+  - While I was an undergraduate student researcher at POSTECH CVLab
+ 
+- **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023.9 ~ current
+  - Online Open Course from Stanford University 
+  - With NAEK YEHS Members
+ 
+- **PAIS Weekly Paper Review,** 2023.9 ~ current 
+  - PAIS means 'POSTECH Artificial Intelligence Society', which is AI Academy in POSTECH
+  - We read and present a total of three papers every week, one from each field (Computer Vision/Natural Language Processing/Machine Learning).
 
+- **POSTECH CSED538/AIGS538(Deep Learning),** 2023.9 ~ current
+  - Offline, Graduate Student Course
+  - Instructo: Wonhwa Kim
+ 
+- **POSTECH CSED539/AIGS539(Computer Vision),** 2023.9 ~ current
+  - Offline, Graduate Student Course
+  - Instructor: Suha Kwak
+ 
+  
+  
