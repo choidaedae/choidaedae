@@ -53,7 +53,17 @@ Here are some ideas to get you started:
 - **Stanford CS231n(Deep Learning for Computer Vision),** 2022.9 ~ 2022.12
   - Online Open Course from Stanford University 
   - While I was an undergraduate student researcher at POSTECH CVLab
+
+- **POSTECH CSED490F(Signal Processing),** 2023.2 ~ 2023.6
+  - Offline, Undergraduate Student Course (Special Lecture)
+  - Learned about various concepts of signal processing, such as signal & systems / Fourier, Laplace, Wavelet Transform / 2D signal processing (Image Processing) / Graph Signal Reconstruction.
+  - Instructor: Wonhwa Kim
  
+- **POSTECH CSED500/AIGS500(Advanced Linear Algebra for CSE Students),** 2023.2 ~ 2023.6
+  - Offline, Graduate Student Course
+  - Learned about various concepts of linear algebra & applying of it. 
+  - Instructor: Hwangjun Song 
+    
 - **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023.9 ~ current
   - Online Open Course from Stanford University 
   - With NAEK YEHS Members
@@ -64,7 +74,7 @@ Here are some ideas to get you started:
 
 - **POSTECH CSED538/AIGS538(Deep Learning),** 2023.9 ~ current
   - Offline, Graduate Student Course
-  - Instructo: Wonhwa Kim
+  - Instructor: Wonhwa Kim
  
 - **POSTECH CSED539/AIGS539(Computer Vision),** 2023.9 ~ current
   - Offline, Graduate Student Course
