@@ -41,8 +41,13 @@ Here are some ideas to get you started:
 
 
 ## Research Experiences
+- **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.9 ~ Present) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
+  - Under the supervision by Prof. Jaesik Park 
+  - Advanced Generative Model, Diffusion Models
+    
 - **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ Present) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
   - Under the supervision by Prof. Wonhwa Kim
+  - For Graduation Research Project I (POSTECH CSED499I) 
   - Medical Image segmentation, Wavelet Diffusion Models
   
 - **UnderGraduate Student Researcher,** POSTECH Computer Vision Lab (2022.9 ~ 2023.2) (Link: [CV Lab @ POSTECH](https://cvlab.postech.ac.kr))
@@ -71,6 +76,7 @@ Here are some ideas to get you started:
 - **PAIS Weekly Paper Review,** 2023.9 ~ current 
   - PAIS means 'POSTECH Artificial Intelligence Society', which is AI Academy in POSTECH
   - We read and present a total of three papers every week, one from each field (Computer Vision/Natural Language Processing/Machine Learning).
+  - I contributed our works by reviewing 2 papers, about UNet & GAN. 
 
 - **POSTECH CSED538/AIGS538(Deep Learning),** 2023.9 ~ current
   - Offline, Graduate Student Course
