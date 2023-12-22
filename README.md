@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - Under the supervision by Prof. Jaesik Park 
   - Advanced Generative Model, Diffusion Models
     
-- **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ Present) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
+- **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ 2023.12) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
   - Under the supervision by Prof. Wonhwa Kim
   - For Graduation Research Project I (POSTECH CSED499I) 
   - Medical Image segmentation, Wavelet Diffusion Models
@@ -55,36 +55,39 @@ Here are some ideas to get you started:
   - Generative Adversarial Networks
  
 ## Studies 
-- **Stanford CS231n(Deep Learning for Computer Vision),** 2022.9 ~ 2022.12
+- **Stanford CS231n(Deep Learning for Computer Vision),** 2022-Fall
   - Online Open Course from Stanford University 
   - While I was an undergraduate student researcher at POSTECH CVLab
 
-- **POSTECH CSED490F(Signal Processing),** 2023.2 ~ 2023.6
+- **POSTECH CSED490F(Signal Processing),** 2023-Spring
   - Offline, Undergraduate Student Course (Special Lecture)
   - Learned about various concepts of signal processing, such as signal & systems / Fourier, Laplace, Wavelet Transform / 2D signal processing (Image Processing) / Graph Signal Reconstruction.
   - Instructor: Wonhwa Kim
  
-- **POSTECH CSED500/AIGS500(Advanced Linear Algebra for CSE Students),** 2023.2 ~ 2023.6
+- **POSTECH CSED500/AIGS500(Advanced Linear Algebra for CSE Students),** 2023-Spring
   - Offline, Graduate Student Course
   - Learned about various concepts of linear algebra & applying of it. 
   - Instructor: Hwangjun Song 
     
-- **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023.9 ~ current
+- **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023-Fall
   - Online Open Course from Stanford University 
   - With NAEK YEHS Members
  
-- **PAIS Weekly Paper Review,** 2023.9 ~ current 
+- **PAIS Weekly Paper Review,** 2023-Fall 
   - PAIS means 'POSTECH Artificial Intelligence Society', which is AI Academy in POSTECH
   - We read and present a total of three papers every week, one from each field (Computer Vision/Natural Language Processing/Machine Learning).
   - I contributed our works by reviewing 2 papers, about UNet & GAN. 
 
-- **POSTECH CSED538/AIGS538(Deep Learning),** 2023.9 ~ current
+- **POSTECH CSED538/AIGS538(Deep Learning),** 2023-Fall
   - Offline, Graduate Student Course
   - Instructor: Wonhwa Kim
+  - Project: Feature Manipulation for DDPM based Change Detection 
  
-- **POSTECH CSED539/AIGS539(Computer Vision),** 2023.9 ~ current
+- **POSTECH CSED539/AIGS539(Computer Vision),** 2023-Fall
   - Offline, Graduate Student Course
   - Instructor: Suha Kwak
+  - Project: Wavelet Feature Upsamplers are efficient and competitive in Semantic Segmentation 
+ 
  
   
   
