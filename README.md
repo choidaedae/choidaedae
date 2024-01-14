@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## Research Experiences
 - **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.9 ~ Present) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
   - Under the supervision by Prof. Jaesik Park 
-  - Advanced Generative Model, Diffusion Models
+  - Diffusion Models, Consistency Models, Image Editing 
     
 - **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ 2023.12) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
   - Under the supervision by Prof. Wonhwa Kim
