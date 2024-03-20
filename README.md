@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)  
 - [CV](https://drive.google.com/file/d/1ocIrbVj8ys_ZybGspLygC7iysKvzYdxl/view?usp=sharing)  
-- [Velog](https://velog.io/@choidaedae/posts)
+- [Personal Page](https://choidaedae.github.io)
 
 
 ## Work Experience
