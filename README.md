@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 ## Research Experiences
 - **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.9 ~ Present) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
-  - Under the supervision by Prof. Jaesik Park 
+  - Under the supervision by Prof. Jaesik Park
+  - Organized & Leaded Generative Model Studies with other undergraduated students in our lab.
+  - Reviewed 16 Papers about fundamental Generative Models (GAN, Diffusion Model, Consistency Model)
   - Diffusion Models, Consistency Models, Image Editing 
     
 - **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ 2023.12) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
@@ -55,19 +57,13 @@ Here are some ideas to get you started:
   - Generative Adversarial Networks
  
 ## Studies 
+- **Selected Courses**
+  - Computer Vision, Deep Learning, Signal Processing, Artificial Intelligence
+  - Differential Equations, Applied Linear Algebra, Probability & Statistics, Advanced Linear Algebra
+    
 - **Stanford CS231n(Deep Learning for Computer Vision),** 2022-Fall
   - Online Open Course from Stanford University 
   - While I was an undergraduate student researcher at POSTECH CVLab
-
-- **POSTECH CSED490F(Signal Processing),** 2023-Spring
-  - Offline, Undergraduate Student Course (Special Lecture)
-  - Learned about various concepts of signal processing, such as signal & systems / Fourier, Laplace, Wavelet Transform / 2D signal processing (Image Processing) / Graph Signal Reconstruction.
-  - Instructor: Wonhwa Kim
- 
-- **POSTECH CSED500/AIGS500(Advanced Linear Algebra for CSE Students),** 2023-Spring
-  - Offline, Graduate Student Course
-  - Learned about various concepts of linear algebra & applying of it. 
-  - Instructor: Hwangjun Song 
     
 - **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023-Fall
   - Online Open Course from Stanford University 
@@ -78,15 +74,10 @@ Here are some ideas to get you started:
   - We read and present a total of three papers every week, one from each field (Computer Vision/Natural Language Processing/Machine Learning).
   - I contributed our works by reviewing 2 papers, about UNet & GAN. 
 
-- **POSTECH CSED538/AIGS538(Deep Learning),** 2023-Fall
-  - Offline, Graduate Student Course
-  - Instructor: Wonhwa Kim
-  - Project: Feature Manipulation for DDPM based Change Detection 
- 
-- **POSTECH CSED539/AIGS539(Computer Vision),** 2023-Fall
-  - Offline, Graduate Student Course
-  - Instructor: Suha Kwak
-  - Project: Wavelet Feature Upsamplers are efficient and competitive in Semantic Segmentation 
+- **VGI Lab Generative Model Study,** 2024-Spring
+  - Studied 16 Papers about fundamental generative models, such as GAN, Diffusion Model, Consistency Model.
+  - With 2 undergraduate students in VGI Lab
+  - I leaded and adivsed all of our works. 
  
  
   
