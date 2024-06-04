@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 
 ## Work Experience
+- **Intern,** GenGenAI (2024.6.24 ~ 2024.8.30) (Link: [GenGenAI](https://www.gengen.ai))
+  - TBD
+    
 - **AI Research Intern,** Meissa Planet (2023.6.12 ~ 2023.9.1) (Link: [Meissa Planet](https://www.meissaplanet.com))
   - Satellite Image Anaylsis using Deep Learning & Computer vision 
   - Diffusion Models, Semantic Segmentation, Change Detection, Semantic Change Detection
