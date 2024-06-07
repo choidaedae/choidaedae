@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## Research Experiences
 - **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.9 ~ Present) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
   - Under the supervision by Prof. Jaesik Park
-  - Organized & Leaded Generative Model Studies with other undergraduated students in our lab.
+  - Organized & Leaded Generative Model Studies with other undergraduated students in our lab. (Link: [Generative Model Study](https://github.com/choidaedae/VGILab-generative-model-study))
   - Reviewed 16 Papers about fundamental Generative Models (GAN, Diffusion Model, Consistency Model)
   - Diffusion Models, Consistency Models, Image Editing 
     
