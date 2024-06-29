@@ -61,7 +61,7 @@ Here are some ideas to get you started:
  
 ## Studies 
 - **Selected Courses**
-  - Computer Vision, Deep Learning, Signal Processing, Artificial Intelligence
+  - Computer Vision, Computer Graphics, Deep Learning, Signal Processing, Artificial Intelligence
   - Differential Equations, Applied Linear Algebra, Probability & Statistics, Advanced Linear Algebra
     
 - **Stanford CS231n(Deep Learning for Computer Vision),** 2022-Fall
