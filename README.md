@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ## Work Experience
 - **Intern,** GenGenAI (2024.6.24 ~ 2024.8.30) (Link: [GenGenAI](https://www.gengen.ai))
-  - TBD
+  - Verification and analysis of synthetic-data based training (Multi-class classification)
+  - Synthetic data generation in specific case
     
 - **AI Research Intern,** Meissa Planet (2023.6.12 ~ 2023.9.1) (Link: [Meissa Planet](https://www.meissaplanet.com))
   - Satellite Image Anaylsis using Deep Learning & Computer vision 
