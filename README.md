@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- I am an undergraduate student of POSTECH(Pohang university of science and technology).
+- I am an undergraduate student of POSTECH (Pohang university of science and technology).
+- I am also incoming M.S. student in KAIST CS. (From 2025, Spring)
 
 
 ## I am interested in...
-- Computer Vision
-- Deep Learning
-- Especially, Generative Model (Diffusion Models, GAN)
-
+- Generative Modelling and its applications. 
 
 ## Contact Info
 - E-mail: daehyeonchoi@postech.ac.kr
@@ -60,28 +58,7 @@ Here are some ideas to get you started:
   - Under the supervision by Prof. Jaesik Park 
   - Generative Adversarial Networks
  
-## Studies 
-- **Selected Courses**
-  - Computer Vision, Computer Graphics, Deep Learning, Signal Processing, Artificial Intelligence
-  - Differential Equations, Applied Linear Algebra, Probability & Statistics, Advanced Linear Algebra
-    
-- **Stanford CS231n(Deep Learning for Computer Vision),** 2022-Fall
-  - Online Open Course from Stanford University 
-  - While I was an undergraduate student researcher at POSTECH CVLab
-    
-- **Stanford CS224n(Natural Language Processing with Deep Learning),** 2023-Fall
-  - Online Open Course from Stanford University 
-  - With NAEK YEHS Members
- 
-- **PAIS Weekly Paper Review,** 2023-Fall 
-  - PAIS means 'POSTECH Artificial Intelligence Society', which is AI Academy in POSTECH
-  - We read and present a total of three papers every week, one from each field (Computer Vision/Natural Language Processing/Machine Learning).
-  - I contributed our works by reviewing 2 papers, about UNet & GAN. 
 
-- **VGI Lab Generative Model Study,** 2024-Spring
-  - Studied 16 Papers about fundamental generative models, such as GAN, Diffusion Model, Consistency Model.
-  - With 2 undergraduate students in VGI Lab
-  - I leaded and adivsed all of our works. 
  
  
   
