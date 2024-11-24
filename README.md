@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 - I am an undergraduate student of POSTECH (Pohang university of science and technology).
-- I am also incoming M.S. student in KAIST CS. (From 2025, Spring)
+- I am also an incoming M.S. student in KAIST CS, [Visual AI Group](https://visualai.kaist.ac.kr/). (From 2025, Spring)
 
 
 ## I am interested in...
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)  
-- [CV](https://drive.google.com/file/d/1ocIrbVj8ys_ZybGspLygC7iysKvzYdxl/view?usp=sharing)  
+- [CV](https://drive.google.com/file/d/1-3IMPOVSl3PWnQQN_kuu_9iXf77PIZIb/view?usp=sharing)
 - [Personal Page](https://choidaedae.github.io)
 
 
