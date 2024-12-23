@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Generative Modelling and its applications. 
 
 ## Contact Info
-- E-mail: daehyeonchoi@postech.ac.kr
+- E-mail: daehyeonchoi@kaist.ac.kr
 - [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)
 
   
