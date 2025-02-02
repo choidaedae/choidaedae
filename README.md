@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
   
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/choi-daehyeon-570b0a214/)  
-- [CV](https://drive.google.com/file/d/1-3IMPOVSl3PWnQQN_kuu_9iXf77PIZIb/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/daehyeon-choi-570b0a214/)
+- [CV](https://drive.google.com/file/d/1cVSY2W48zxk9jj50vJqUu30baFlkMVgF/view?usp=sharing)
 - [Personal Page](https://choidaedae.github.io)
 
 
 ## Work Experience
 - **Algorithm Engineer Intern,** GenGenAI (2024.6.24 ~ 2024.8.30) (Link: [GenGenAI](https://www.gengen.ai))
-  - Verification and analysis of synthetic-data based training (Multi-class classification)
-  - Synthetic data generation in specific case
+  - Verification and analysis of synthetic-data based training (Object Detection)
+  - Synthetic data generation in specific case (Data with multi-object occlusion)
     
 - **AI Research Intern,** Meissa Planet (2023.6.12 ~ 2023.9.1) (Link: [Meissa Planet](https://www.meissaplanet.com))
   - Satellite Image Anaylsis using Deep Learning & Computer vision 
