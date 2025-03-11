@@ -1,19 +1,4 @@
-## Hi there 👋
-
-<!--
-**choidaedae/choidaedae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+## About Me
 - I am M.S. student in KAIST CS, [Visual AI Group](https://visualai.kaist.ac.kr/). (From 2025, Spring)
 - I received B.S. degree from POSTECH (Pohang university of science and technology).
 
@@ -43,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ## Research Experiences
-- **Graduate Student Researcher,** KAIST Visual AI Group (2025.1 ~ Present) (Link: [Visual AI Group @ KAIST](https://visualai.kaist.ac.kr/)
+- **Graduate Student Researcher,** KAIST Visual AI Group (2025.1 ~ Present) (Link: [Visual AI Group @ KAIST](https://visualai.kaist.ac.kr/))
   - Under the supervision by Prof. Minhyuk Sung
   - Diffusion Models, Image Synthesis
 
