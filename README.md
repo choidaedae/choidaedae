@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- I am an undergraduate student of POSTECH (Pohang university of science and technology).
-- I am also an incoming M.S. student in KAIST CS, [Visual AI Group](https://visualai.kaist.ac.kr/). (From 2025, Spring)
+- I am M.S. student in KAIST CS, [Visual AI Group](https://visualai.kaist.ac.kr/). (From 2025, Spring)
+- I received B.S. degree from POSTECH (Pohang university of science and technology).
 
 
 ## I am interested in...
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 
 ## Research Experiences
+- **Graduate Student Researcher,** KAIST Visual AI Group (2025.1 ~ Present) (Link: [Visual AI Group @ KAIST](https://visualai.kaist.ac.kr/)
+  - Under the supervision by Prof. Minhyuk Sung
+  - Diffusion Models, Image Synthesis
+
 - **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.9 ~ Present) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
   - Under the supervision by Prof. Jaesik Park
   - Diffusion Models, Drag Editing (Participated to [InstantDrag](https://github.com/SNU-VGILab/InstantDrag) Project: accepted to SIGGRAPH Asia 2024)
