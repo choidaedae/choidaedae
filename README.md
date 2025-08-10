@@ -1,10 +1,11 @@
 ## About Me
 - I am M.S. student in KAIST CS, [Visual AI Group](https://visualai.kaist.ac.kr/). (From 2025, Spring)
-- I received B.S. degree from POSTECH (Pohang university of science and technology).
+- I received B.S. degree from POSTECH (Pohang university of science and technology). (2021, Spring - 2024, Winter)
 
 
 ## I am interested in...
-- Generative Modelling and its applications. 
+- Generative Modelling and its applications.
+- Vision-Language Models
 
 ## Contact Info
 - E-mail: daehyeonchoi@kaist.ac.kr
