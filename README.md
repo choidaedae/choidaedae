@@ -30,7 +30,7 @@
 ## Research Experiences
 - **Graduate Student Researcher,** KAIST Visual AI Group (2025.1 ~ Present) (Link: [Visual AI Group @ KAIST](https://visualai.kaist.ac.kr/))
   - Under the supervision by Prof. Minhyuk Sung
-  - Diffusion Models, Image Synthesis
+  - Diffusion Models & Multimodal Large Language Models
 
 - **UnderGraduate Student Researcher,** SNU Visual & Geometric Intelligence Lab (2023.10 ~ 2024.6) (Link: [VGI Lab @ SNU](https://jaesik.info/lab))
   - Under the supervision by Prof. Jaesik Park
