@@ -5,7 +5,7 @@
 
 ## I am interested in...
 - Generative Modelling and its applications.
-- Vision-Language Models
+- Vision-Language Models (Spatial Reasoning, Embodied AI) 
 
 ## Contact Info
 - E-mail: daehyeonchoi@kaist.ac.kr
