@@ -4,8 +4,8 @@
 
 
 ## I am interested in...
+- Vision-Language Models (Embodied AI, Spatial Reasoning) 
 - Generative Modelling and its applications.
-- Vision-Language Models (Spatial Reasoning, Embodied AI) 
 
 ## Contact Info
 - E-mail: daehyeonchoi@kaist.ac.kr
@@ -38,17 +38,6 @@
   - Organized & Leaded Generative Model Studies with other undergraduated students in our lab. (Link: [Generative Model Study](https://github.com/choidaedae/VGILab-generative-model-study))
   - Reviewed 16 Papers about fundamental Generative Models (GAN, Diffusion Model, Consistency Model)
     
-- **UnderGraduate Student Researcher,** POSTECH Medical Imaging & Vision Lab (2023.9 ~ 2023.12) (Link: [MIV Lab @ POSTECH](https://miv.postech.ac.kr))
-  - Under the supervision by Prof. Wonhwa Kim
-  - For Graduation Research Project I (POSTECH CSED499I) 
-  - Medical Image segmentation, Wavelet Diffusion Models
-  
-- **UnderGraduate Student Researcher,** POSTECH Computer Vision Lab (2022.9 ~ 2023.2) (Link: [CV Lab @ POSTECH](https://cvlab.postech.ac.kr))
-  - Under the supervision by Prof. Jaesik Park 
-  - Generative Adversarial Networks
- 
-
- 
  
   
   
